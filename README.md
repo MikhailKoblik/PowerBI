@@ -7,7 +7,7 @@ through, data aggregation, and trend analysis.
 **Key Insights**
 1)Identified top-performing genres globally as action and sports, and the
 North American market as the largest single market with almost 50% of
-sales.
+sales.  
 2)Games published after 2008 show a strong downward trend in global
 sales.
 3)PS3, PS2 and X360 are the three platforms that account for the most
