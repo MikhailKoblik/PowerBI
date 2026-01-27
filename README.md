@@ -1,10 +1,10 @@
-Interactive Power BI dashboard analysing video game sales trends by time, region, genre, platform, and publisher.
+Interactive Power BI dashboard analysing video game sales trends by time, region, genre, platform, and publisher.  
 
-**Tools & Techniques**
+**Tools & Techniques**  
 Data transformation, data analysis expressions, interactive slicers, drill
-through, data aggregation, and trend analysis.
+through, data aggregation, and trend analysis.  
 
-**Key Insights**
+**Key Insights**  
 1)Identified top-performing genres globally as action and sports, and the
 North American market as the largest single market with almost 50% of
 sales.  
@@ -24,7 +24,7 @@ sales numbers per title that was released.
 7)Nintendo’s business performance is led by platform, role-playing, and
 sports games, with North America emerging as the company’s primary
 market.
-
-**Data Information**
+  
+**Data Information**  
 Dataset downloaded from kaggle.com (https://www.kaggle.com/datasets/gregorut/videogamesales/data)
 ![Executive Overview](dashboard_image1.png)
