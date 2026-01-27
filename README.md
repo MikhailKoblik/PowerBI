@@ -28,3 +28,6 @@ market.
 **Data Information**  
 Dataset downloaded from [kaggle.com](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
 ![Executive Overview](dashboard_image1.png)
+![Regional Analysis](dashboard_image2.png)
+![Publisher Performance](dashboard_image3.png)
+![Publisher Detail](dashboard_image4.png)
