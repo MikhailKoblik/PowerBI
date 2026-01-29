@@ -1,7 +1,7 @@
 **Interactive Power BI dashboard analysing video game sales trends by time, region, genre, platform, and publisher.**  
 
 **Tools & Techniques**  
-Data transformation, data analysis expressions, interactive slicers, drill
+* Data transformation, data analysis expressions, interactive slicers, drill
 through, data aggregation, and trend analysis.  
 
 **Key Insights**  
@@ -26,7 +26,8 @@ sports games, with North America emerging as the company’s primary
 market.
   
 **Data Information**  
-Dataset downloaded from [kaggle.com](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
+* Dataset downloaded from [kaggle.com](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
+
 ![Executive Overview](dashboard_image1.png)
 ![Regional Analysis](dashboard_image2.png)
 ![Publisher Performance](dashboard_image3.png)
