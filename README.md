@@ -1,4 +1,4 @@
-Interactive Power BI dashboard analysing video game sales trends by time, region, genre, platform, and publisher.  
+**Interactive Power BI dashboard analysing video game sales trends by time, region, genre, platform, and publisher.**  
 
 **Tools & Techniques**  
 Data transformation, data analysis expressions, interactive slicers, drill
